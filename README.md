@@ -1,1 +1,1 @@
-Creating a QA Answering engine using RAG and Pinecone vector database from Langchain.
+Creating a QA Answering engine using RAG, Pinecone and FAISS vector database from Langchain.
